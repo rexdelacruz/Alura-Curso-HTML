@@ -1,0 +1,6 @@
+Equipo Front-End:
+    - Programador Front-End
+    - Responsable por UX (user experience)
+    - Responsable por UI (user interface)
+    - Copywriter (Generador de Contenido)
+    - SEO (Search Engine Optimization)

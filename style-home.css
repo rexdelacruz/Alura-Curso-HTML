@@ -1,0 +1,48 @@
+.titulo-principal {
+    padding-left: 30px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.diferenciales {
+    background: #ffffff;
+    padding: 30px;
+}
+
+.items {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;  /*Las listas siempre son bloques por default, inline-block le dice a la lista que solo ocupe su espacio / bloque hasta donde termina el item más extenso, y da espacio al resto de elementos o contenido*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales {
+    width: 50%;
+}
